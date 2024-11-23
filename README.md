@@ -24,7 +24,7 @@ Ensure you have Python installed on your system. You can download Python from [p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/file-reader-app.git
+[git clone https://github.com/yourusername/file-reader-app.git](https://github.com/sugeng-riyanto/Read-files-in-python.git)
 cd file-reader-app
 ```
 
