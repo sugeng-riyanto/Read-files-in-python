@@ -108,5 +108,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [sriyanto1](https://github.com/sugeng-riyanto)
+- **Email**: srphysics04@gmail.com
+- **GitHub**: [sugeng-riyanto](https://github.com/sugeng-riyanto)
